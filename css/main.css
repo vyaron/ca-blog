@@ -294,3 +294,17 @@ code {
     border-bottom: 1px solid #aaa;
   }  
 }
+
+.page-footer {
+  background-color: #ecf5fe;
+  color: whitesmoke;
+  text-align: center;
+  padding: 2em;
+  margin-top: 3em;
+}
+
+.page-footer img{
+  display: block;
+  max-width: 200px;
+  margin: auto;
+}
